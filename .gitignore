@@ -1,0 +1,12 @@
+# python
+__pycache__
+
+# poetry
+.pytest_cache
+poetry.lock
+
+# mypy
+.mypy_cache
+
+# data
+data/
